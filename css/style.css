@@ -9,3 +9,8 @@
     left: 50%;
     transform: translate(-50%, 0);
   }
+
+#alert-success .btn-close,
+#alert-danger .btn-close {
+    display: none;
+}
